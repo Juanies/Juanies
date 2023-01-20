@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React.js and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://portafolios-b8ul.vercel.app/](https://portafolios-b8ul.vercel.app/)
-
 
 
 
