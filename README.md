@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portafolios-b8ul.vercel.app/](https://portafolios-b8ul.vercel.app/)
 
-- 📫 How to reach me **juanromeroviudez@gmail.com**
-
 
 
 
