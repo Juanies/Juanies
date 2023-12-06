@@ -1,9 +1,6 @@
 <h1 align="center">¡Hola! 👋, soy Juan</h1>
 <h3 align="center">Desarrollador de Aplicaciones Multiplataforma</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username= juanies&label=Profile%20views&color=0e75b6&style=flat" alt="juanies" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile- trofeo"><img src="https://github-profile-tropico.vercel.app/?username=juanies" alt="juanies" /></a> </p>
 
 - 🌱 Actualmente estoy aprendiendo **1ºDAM **
 
