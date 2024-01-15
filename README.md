@@ -1,6 +1,6 @@
 <h1 align="center">Juan Romero</h1>
 <h2 align="center">Web & Software Developer focusing on digital experiences.</h3>
-<p align="center">Hello! I'm Juan Romero ,Software & Web developer. I enjoy creating meaning through web and software development, experimenting with new technologies to convey stories.</h3>
+<p align="center"> I enjoy creating meaning through web and software development, experimenting with new technologies to convey stories.</h3>
 
 
 - 🌱 Actualmente estoy aprendiendo **1ºDAM **
