@@ -4,6 +4,7 @@
 
 
 <p align="center"> 1ºDAM </h3>
+<p align="center"> Discord: Juanies </h3>
 
 
 
