@@ -1,5 +1,11 @@
 <h2 align="left">Hi 👋!  Soy Juanies</h2>
-<div style="width: 100%; height: 5em; background: linear-gradient(to right, rgba(120, 119, 198, 0.3), rgba(255, 255, 255, 0));"></div>
+<svg width="100%" height="5em" viewBox="0 0 100 5" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" style="stop-color:rgba(120, 119, 198, 0.3);stop-opacity:1" />
+    <stop offset="100%" style="stop-color:rgba(255, 255, 255, 0);stop-opacity:1" />
+  </linearGradient>
+  <rect x="0" y="0" width="100" height="5" fill="url(#grad)" />
+</svg>
 
 ###
 
