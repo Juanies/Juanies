@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Juanies</h2>
+<h2 align="left">Hi 👋!  Soy Juanies</h2>
+<div style="width: 100%; height: 5em; background: linear-gradient(to right, rgba(120, 119, 198, 0.3), rgba(255, 255, 255, 0));"></div>
 
 ###
 
