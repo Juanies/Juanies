@@ -4,4 +4,4 @@ Soy  Juan Romero, apasionado por el desarrollo de software y la tecnología. En 
 
 
 
-
+<hr>
