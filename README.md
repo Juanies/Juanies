@@ -5,6 +5,4 @@ Soy  Juan Romero, apasionado por el desarrollo de software y la tecnología. En 
 
 
 <hr>
-<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Juanies&label=Profile%20Views&color=12&icon=0&pretty=false" />
-</a>
