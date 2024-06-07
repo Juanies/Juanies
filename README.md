@@ -11,4 +11,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Juanies&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/miguel07alm/miguel07alm/blob/main/black-hole.jpg](https://media.discordapp.net/attachments/1239591042823753783/1248782526949097593/df47ee3e5df1f4abcc0766585b493ba3.jpg?ex=6664eadb&is=6663995b&hm=529ea551bab6c32586f64dc1caeccb9c936800fe2f4ac0f0a142b7ad9b4428b5&=&format=webp&width=1157&height=651)?raw=true');]{x0000}$}
