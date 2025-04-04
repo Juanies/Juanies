@@ -1,12 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
 
 <p align="left">Actualmente me encuentro finalizando mi ciclo formativo en I.E.S. Al-Ándalus, y estoy enfocado en desafíos que promuevan mi crecimiento y me permitan aportar a la innovación tecnológica, siempre con un firme compromiso hacia la excelencia y la mejora continua.</p>
-
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
